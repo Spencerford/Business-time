@@ -1,0 +1,199 @@
+* {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.logo {
+    height: 60px;
+}
+
+.navbar-right {
+    padding-top: 10px;
+}
+
+.navbar-header {
+    padding: 10px;
+}
+
+.navbar-fixed-top {
+    background-color: rgba(255, 255, 255, 0.7) !important;
+}
+
+body {
+    color: white;
+    text-align: center;
+}
+
+.text {
+    color: black;
+}
+
+.footer {
+    background-color: dimgray;
+    bottom: 0;
+    height: 50px;
+    padding-top: 15px;
+}
+
+.background-image {
+    background-image: url("https://photos-1.dropbox.com/t/2/AABBE-hoUDnuJ6vaR4Q5yUQ4ewHLZmDA4-5OoFaRcpMY6Q/12/675776131/png/32x32/1/_/1/2/father%20blurred.psd/ENqR1sMFGKcEIAcoBw/7WAPBvag17Je8-T5AuoA7xeGOw9jAbZiuaBZOdUTayM%2CS2eYN13UHzOQ7GaUn0WG0G9th1kSvBZHVybpB3z4kcY%2CIMWFtX88VTD2rt3BQoTqD8bGrGVpQCFASWX3W5pOEQg%2CzVnbHc1pFB3xtFKjmYhV3DNjvnQYmM5jyegOFgYuj_Y%2CeLr818Ar8RS4dDg9Mhb-fgnabIFsJ9sRD-stYmqY1IE%2C91y54UHDh24kkQN7-CPgrCG_ZlJu-JkdMhTXLaAFrk4%2CXqpq75WX13MHuMe2iCWvYN1CaKmfh754DT0Ddl-j3dU%2CjUI0vhI35wON0iqTkplsuTOHuiMBhawVPiAGCSjAjMc%2C4Hy-aqsVnR4bL6c7he81rQ7ivB_J9YAhtqhh4OiZnNg%2CMv-CgjUdB6QelV19wpfvTC4hsjj2f2pc3giPgoZXO4w?size=2048x1536&size_mode=3");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.fa-angle-double-down {
+    font-size: 80px !important;
+    color: white;
+    position: absolute;
+    bottom: 10px;
+}
+
+.social-media {
+    font-size: 20px !important;
+}
+
+#about-bh {
+    color: #f79421;
+}
+
+#what-we-do {
+    color: #0872ba;
+}
+
+#bh-support {
+    color: #ed5f2f;
+}
+
+.fadeIn {
+    animation-duration: 4s !important;
+    margin-top: 400px;
+    font-size: 50px;
+}
+
+.about {
+    height: 100%;
+    padding-top: 80px;
+}
+
+.what-we-do {
+    height: 100%;
+    padding-top: 80px;
+}
+
+.description {
+    height: 300px;
+}
+
+.support {
+    height: 400px;
+    background-image: url("https://photos-6.dropbox.com/t/2/AABxkNER4_IqKudsI4QHRCZrKTHChZfhRXCJYJeihV_KtA/12/675776131/jpeg/32x32/1/_/1/2/golf-584092_1920.jpg/ENqR1sMFGKUEIAcoBw/iB2LANtffw7uKVYVa5PFrRrEK3cuEh2iFASXwSmMBCM?size=2048x1536&size_mode=3");
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.box {
+    height: 300px;
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+.cent {
+    padding-top: 60px;
+}
+
+.contact {
+    height: 300px;
+}
+
+.text-section {
+    padding-top: 80px;
+}
+
+#summit-support {
+    padding-bottom: 40px;
+}
+
+button {
+    border-radius: 15px;
+}
+
+.header {
+    
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 0px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+.background-image2 {
+    background-image: url("https://photos-3.dropbox.com/t/2/AADH6gWWP5d94BGNV3aw8M9t0pVGNQTvBRby_0vWzMqTdg/12/675776131/jpeg/32x32/1/_/1/2/startup-593327.jpg/ENqR1sMFGKYEIAcoBw/pSBFChRt828GtZy83CIK-ypwgRypnbXUUsC-8roFrUs?size=2048x1536&size_mode=3");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.contact-form {
+    padding-top: 20vh;
+}
+
+.box2 {
+    height: 500px;
+    background-color: rgba(105, 105, 105, 0.6);
+    margin-top: 50px;
+    border-radius: 25px;
+}
+
+.header {
+    padding-top: 40px;
+}
+
+
+.testimonial-box {
+    border: 2px solid #ccc;
+    background-color: #eee;
+    border-radius: 20px;
+    padding: 16px;
+    margin: 10px;
+    height: 450px
+}
+
+.profile-pic {
+    border-radius: 50%;
+    height: 150px;
+}
+
+.background-image3 {
+    background-image: url("https://photos-4.dropbox.com/t/2/AAA2eyuYVC32VZogxM4jkLXFzmp4HKhsL4pwYVKuNFRekQ/12/675776131/jpeg/32x32/1/_/1/2/entrepreneur-593378.jpg/ENqR1sMFGKQEIAcoBw/10IAY5MnlqPJK_k_U7aLucjGU-siP5Hzb_tHQCA20pA?size=2048x1536&size_mode=3");
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+    padding-top: 100px;
+}
+
+.page-box {
+    background-color: rgba(105, 105, 105, 0.5);
+    border-radius: 25px;
+}
+
+.name-space {
+    padding-top: 15px;
+}
+
+.testimonial-box-padding {
+    padding-bottom: 50px;
+}
