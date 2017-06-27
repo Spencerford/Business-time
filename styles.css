@@ -45,7 +45,7 @@ body {
 }
 
 .fa-angle-double-down {
-    font-size: 80px !important;
+    font-size: 50px !important;
     color: white;
     position: absolute;
     bottom: 10px;
@@ -59,8 +59,16 @@ body {
     color: #f79421;
 }
 
+#about-paragraph {
+    text-align: justify;
+}
+
 #what-we-do {
     color: #0872ba;
+}
+
+#what-paragraph {
+    text-align: justify;
 }
 
 #bh-support {
@@ -116,6 +124,7 @@ body {
 
 #summit-support {
     padding-bottom: 40px;
+    text-align: justify;
 }
 
 button {
