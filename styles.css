@@ -35,7 +35,7 @@ body {
 }
 
 .background-image {
-    background-image: url("https://photos-1.dropbox.com/t/2/AABBE-hoUDnuJ6vaR4Q5yUQ4ewHLZmDA4-5OoFaRcpMY6Q/12/675776131/png/32x32/1/_/1/2/father%20blurred.psd/ENqR1sMFGKcEIAcoBw/7WAPBvag17Je8-T5AuoA7xeGOw9jAbZiuaBZOdUTayM%2CS2eYN13UHzOQ7GaUn0WG0G9th1kSvBZHVybpB3z4kcY%2CIMWFtX88VTD2rt3BQoTqD8bGrGVpQCFASWX3W5pOEQg%2CzVnbHc1pFB3xtFKjmYhV3DNjvnQYmM5jyegOFgYuj_Y%2CeLr818Ar8RS4dDg9Mhb-fgnabIFsJ9sRD-stYmqY1IE%2C91y54UHDh24kkQN7-CPgrCG_ZlJu-JkdMhTXLaAFrk4%2CXqpq75WX13MHuMe2iCWvYN1CaKmfh754DT0Ddl-j3dU%2CjUI0vhI35wON0iqTkplsuTOHuiMBhawVPiAGCSjAjMc%2C4Hy-aqsVnR4bL6c7he81rQ7ivB_J9YAhtqhh4OiZnNg%2CMv-CgjUdB6QelV19wpfvTC4hsjj2f2pc3giPgoZXO4w?size=2048x1536&size_mode=3");
+    background-image: url("./assets/Erin Sunset-18.jpg");
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -79,6 +79,7 @@ body {
     animation-duration: 4s !important;
     margin-top: 400px;
     font-size: 50px;
+    color: black;
 }
 
 .about {
@@ -97,7 +98,7 @@ body {
 
 .support {
     height: 400px;
-    background-image: url("https://photos-6.dropbox.com/t/2/AABxkNER4_IqKudsI4QHRCZrKTHChZfhRXCJYJeihV_KtA/12/675776131/jpeg/32x32/1/_/1/2/golf-584092_1920.jpg/ENqR1sMFGKUEIAcoBw/iB2LANtffw7uKVYVa5PFrRrEK3cuEh2iFASXwSmMBCM?size=2048x1536&size_mode=3");
+    background-image: url("./assets/golf-584092_1920 (1).jpg");
     background-position: center;
     background-attachment: fixed;
     position: relative;
@@ -144,7 +145,7 @@ button {
 }
 
 .background-image2 {
-    background-image: url("https://photos-3.dropbox.com/t/2/AADH6gWWP5d94BGNV3aw8M9t0pVGNQTvBRby_0vWzMqTdg/12/675776131/jpeg/32x32/1/_/1/2/startup-593327.jpg/ENqR1sMFGKYEIAcoBw/pSBFChRt828GtZy83CIK-ypwgRypnbXUUsC-8roFrUs?size=2048x1536&size_mode=3");
+    background-image: url("./assets/startup-593327 (1).jpg");
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -184,7 +185,7 @@ button {
 }
 
 .background-image3 {
-    background-image: url("https://photos-4.dropbox.com/t/2/AAA2eyuYVC32VZogxM4jkLXFzmp4HKhsL4pwYVKuNFRekQ/12/675776131/jpeg/32x32/1/_/1/2/entrepreneur-593378.jpg/ENqR1sMFGKQEIAcoBw/10IAY5MnlqPJK_k_U7aLucjGU-siP5Hzb_tHQCA20pA?size=2048x1536&size_mode=3");
+    background-image: url("./assets/entrepreneur-593378.jpg");
     background-size: cover;
     min-height: 100vh;
     width: 100%;
